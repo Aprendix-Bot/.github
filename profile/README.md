@@ -9,7 +9,7 @@ Mais que uma ferramenta, um amigo!
 
 ## Sobre o Projeto:
 
-Uma aplicação integrada à aplicativos de troca de mensagens que tem como principal objetivo auxiliar estudantes durante o processo de memorização de disciplinas que estão sendo lecionadas.
+Uma aplicação integrada à aplicativos de troca de mensagens que tem como principal objetivo auxiliar estudantes durante o processo de memorização de disciplinas que estão sendo lecionadas utilizando o <b>Método de Memorização Exponencial Efetivo na Base Binária</b>.
 
 ## Recursos Utilizados:
 
